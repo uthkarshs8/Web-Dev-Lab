@@ -1,0 +1,52 @@
+<html>
+<body>
+<h1> WELCOME </h1>
+<p><i>VIDYAVARDHAKA COLLEGE OF ENGINEERING</i></p>
+<p style="font-size:40px;"> <b>Department of CSE</b> </p>
+<p>The Department of Computer Science and Engineering shall create professionally competent and socially responsible engineers capable of working in global environment<br>The department is well equipped with good infrastructure such as latest computers, Laboratory Equipment’s, 300 Mbps leased line connection & Wi-Fi Internet connectivity and well qualified faculty members.
+<per>The academic programs of the Department are highly innovative and keenly sought after<br> The Department has trained more than a thousand engineers who have distinguished themselves as leading academicians, industry professionals, and entrepreneurs in several universities and industries in India and abroad</per></p>
+<img src="..\download.jpg" alt="VVCE Logo" width="200" height="200">
+<a href ="http://vvce.ac.in">VVCE link</a>
+<h4>Clubs in our College</h4>
+<ul>
+<li>DSC</li>
+<li>ACM</li>
+<li>OSL</li>
+</ul>
+<ol>
+<li>ASPERA</li>
+<li>TOASTMASTERS</li>
+</ol>
+<p style ="background-color:rgba{255,255,255,0.6};">DR.B SADASHIVE GOWDA</p>
+<p><del>NO</del> classes till 30<sup>th</sup> September 2020</p>
+        <p>Developed by Uthkarsh Sanjay</p>
+        <h5>Subjects in 7<sup>th</sup>Sem</h5>
+        <table bordercolor="#00000;">
+            <tr>
+                <th>Subject Name</th>
+                <th>Subject Code</th>
+            </tr>
+            <tr>
+                <td>Web Development</td>
+                <td>17CS71</td>
+            </tr>
+<tr>
+                <td>ADVANCED COMPUTER ARCHITECTURE</td>
+                <td>17CS72</td>
+            </tr>
+            <tr>
+                <td>Machine Learning</td>
+                <td>17CS73</td>
+            </tr>
+<tr>
+                <td>STORAGE AREA NETWORK</td>
+                <td>17CS754</td>
+            </tr>
+<tr>
+                <td>CLOUD COMPUTING</td>
+                <td>17CS742</td>
+            </tr>
+
+        </table>
+</body>
+</html>
