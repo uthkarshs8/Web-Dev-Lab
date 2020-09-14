@@ -1,0 +1,67 @@
+<html>
+  <body>
+    <h4 id="name">javascript</h4>
+    <br />
+
+    <!-- to change content like text use inner html -->
+    <button
+      type="button"
+      onclick="document.getElementById('name').innerHTML= 'hello'"
+    >
+      click
+    </button>
+
+    <!-- to display date -->
+
+    <button
+      type="button"
+      onclick="document.getElementById('demo').innerHTML= Date()"
+    >
+      date
+    </button>
+    <h3 id="demo">Date</h3>
+    <br />
+
+    <img id="image" src="image.png" alt="1" /> <br />
+
+    <!-- to change image use document.getElementById('image').src='img.jpg'" -->
+
+    <button
+      type="button"
+      onclick="document.getElementById('image').src='banner.jpg'"
+    >
+      change image
+    </button>
+
+    <button
+      type="button"
+      onclick="document.getElementById('image').src='image.png'"
+    >
+      change to previous image
+    </button>
+
+    <!-- change font size -->
+    <button
+      type="button"
+      onclick="document.getElementById('name').style.fontSize='50px'"
+    >
+      change font size 
+    </button>
+
+    <!-- change color -->
+    <button
+      type="button"
+      onclick="document.getElementById('name').style.color='#111'"
+    >
+      change font color
+    </button>
+
+    <!-- make text disappear -->
+    <button
+      type="button"
+      onclick="document.getElementById('name').style.display='none'"
+    >
+      make first line disappear
+    </button>
+  </body>
+</html>
